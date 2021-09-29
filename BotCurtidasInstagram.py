@@ -87,6 +87,6 @@ class InstagramBot:
 
 
 HEITORDEV = InstagramBot(
-    "mixk_solutions", "Mixk2021"
+    "USUÁRIO", "SENHA"
 )  # Entre com o usuário e senha aqui
 HEITORDEV.login()
