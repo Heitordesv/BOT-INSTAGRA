@@ -86,7 +86,7 @@ class InstagramBot:
                 time.sleep(5)
 
 
-jhonatanBot = InstagramBot(
+HEITORDEV = InstagramBot(
     "mixk_solutions", "Mixk2021"
 )  # Entre com o usuário e senha aqui
-jhonatanBot.login()
+HEITORDEV.login()
